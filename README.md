@@ -1,1 +1,13 @@
-# Final-Solo-Project__Mario-vs.-Bowser
+# Mario vs. Bowser
+
+Purpose:
+- ...
+
+Group:
+- Individual Project
+
+## Introduction
+...
+
+## How to Play
+...
